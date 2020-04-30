@@ -15,7 +15,7 @@ import javax.swing.Timer;
 
 
 /* 
-	Building extends JPanel so that we can override the paint method. The paint method is necessary to use the simple
+	UI extends JPanel so that we can override the paint method. The paint method is necessary to use the simple
 	drawing tools of the library! 
 	Simulator implements an ActionListener which adds the method actionPerformed. This method is invoked by the 
 	animation timer every timerValue(16ms).
