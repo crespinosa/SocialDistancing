@@ -162,6 +162,21 @@ public class Person extends Resident {
 			System.out.println( p );
 		}
 	}
-	
+	/*
+	public void personToWallCollision(Person p) {
+		
+		Rectangle personRect = new Rectangle(p.x,p.y, p.width, p.height);
+		for(int i = 0; i < walls.length;i++)
+		{
+			if(r[i].intersects(personRect))
+				if(walls[i].vertical)
+				{
+					p.vx *= -1;
+				}
+				else
+					p.vy *= -1;
+		}  
+	} 
+	*/
 	
 }

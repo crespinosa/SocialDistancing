@@ -120,6 +120,7 @@ public class Control extends UI{
 		 * Call Back method for View
 		 * paints/repaints model of graphic objects repressing person objects in the frame 
 		 */
+		
 		public void paintPersons(Graphics g) {
 			
 			//find the Person in the Model!
