@@ -1,4 +1,5 @@
-package socialdistancing;
+package test;
+
 
 //entry point
 public class _Main {

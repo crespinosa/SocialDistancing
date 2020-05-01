@@ -1,4 +1,5 @@
-package socialdistancing;
+package test;
+
 
 import java.awt.Image;
 import java.awt.Rectangle;
